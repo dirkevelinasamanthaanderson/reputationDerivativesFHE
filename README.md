@@ -1,4 +1,4 @@
-```markdown
+
 # Reputation Derivatives FHE: A Privacy-Preserving DeFi Protocol 
 
 Reputation Derivatives FHE is a groundbreaking DeFi protocol that allows users to trade derivatives—such as futures and options—based on FHE-encrypted reputation scores. By leveraging **Zama's Fully Homomorphic Encryption (FHE) technology**, this platform provides innovative financial tools for hedging and speculating on intangible "reputation" assets. With the ability to maintain user confidentiality while ensuring transparent transactions, this project sets a new standard for privacy in decentralized finance.
